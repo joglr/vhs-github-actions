@@ -3,7 +3,7 @@ Sleep 3s
 
 # Where should we write the GIF?
 
-Output demo.gif 
+Output demo.gif
 
 # Set up a 1200x600 terminal with 46px font.
 # Set FontSize 46
@@ -18,8 +18,9 @@ Enter
 
 Sleep 15s
 
-Type "cd .."
+Type "cd .. && clear"
 Enter
+
 
 Show
 
