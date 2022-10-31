@@ -16,6 +16,8 @@ Enter
 Type "git clone https://github.com/git-truck/git-truck"
 Enter
 
+Sleep 10s
+
 Type "cd .."
 Enter
 
