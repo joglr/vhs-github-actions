@@ -10,6 +10,15 @@ Output demo.gif
 Set Width 1200
 Set Height 600
 
+Type "mkdir repos && cd repos"
+Enter
+
+Type "git clone https://github.com/git-truck/git-truck"
+Enter
+
+Type "cd .."
+Enter
+
 Show
 
 Type@150ms "cd ~/repos"
